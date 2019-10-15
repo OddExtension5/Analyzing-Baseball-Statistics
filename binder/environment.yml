@@ -1,0 +1,12 @@
+name: analyzing-baseball-statistics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - numpy
+  - pip
+  - pandas=0.24.0
+  - matplotlib
+  - scikit-learn
+  - seaborn
