@@ -1,0 +1,7 @@
+## List of libraries used
+python==3.7
+numpy
+pandas==0.24.0
+matplotlib
+scikit-learn
+scipy
